@@ -1,0 +1,22 @@
+{
+  "name": "grid_layout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "vite": "^8.3.8"
+  },
+  "dependencies": {
+    "@floating-ui/dom": "^1.8.0",
+    "boostrap": "^2.0.0",
+    "vanilla-calendar-pro": "^3.4.0"
+  }
+}
